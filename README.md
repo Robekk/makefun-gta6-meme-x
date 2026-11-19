@@ -11,7 +11,7 @@ and hands it to the grader.
 
 ## The post
 
-https://x.com/norwgs/status/2123442868731945247
+https://x.com/norwgs/status/2123461546995253256
 
 The post carries the meme as its first picture, the bounty link, a tag of
 @makefunai, and the account's play code in its text.
@@ -39,7 +39,7 @@ X.
 
 ## Files
 
-- `POST.json` — `{"url": "https://x.com/norwgs/status/2123442868731945247"}`
+- `POST.json` — `{"url": "https://x.com/norwgs/status/2123461546995253256"}`
 - `main.ts` — the copier described above
 - `LICENSE` — MIT
 
